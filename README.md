@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Lucas Freire Salhab
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python, Javascript and C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Instagram > @lucasfreire05
 
 <!---

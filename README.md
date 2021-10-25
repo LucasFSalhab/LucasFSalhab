@@ -1,7 +1,6 @@
 ## Olá, me chamo Lucas, prazer!
 
 - 👋 Hi, I’m Lucas Freire Salhab
-- 🌱 I’m currently learning Python, Javascript and C#
 
 <div align="center">
   <a href="https://github.com/lucasfsalhab">
